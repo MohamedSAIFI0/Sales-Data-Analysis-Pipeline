@@ -1,0 +1,217 @@
+product_id,product_name,category,price
+1,Smartphone,Electronics,702.6
+2,Smartphone Pro,Electronics,1140.08
+3,Smartphone Plus,Electronics,1267.8
+4,Laptop,Electronics,1160.43
+5,Laptop Pro,Electronics,805.88
+6,Laptop Plus,Electronics,958.79
+7,Headphones,Electronics,687.82
+8,Headphones Pro,Electronics,1084.64
+9,Headphones Plus,Electronics,390.02
+10,Tablet,Electronics,513.58
+11,Tablet Pro,Electronics,833.22
+12,Tablet Plus,Electronics,250.64
+13,Smartwatch,Electronics,605.4
+14,Smartwatch Pro,Electronics,271.57
+15,Camera,Electronics,143.13
+16,Camera Pro,Electronics,641.02
+17,Monitor,Electronics,725.59
+18,Monitor Pro,Electronics,140.29
+19,Monitor Plus,Electronics,1257.69
+20,Monitor Mini,Electronics,614.74
+21,Keyboard,Electronics,1421.79
+22,Keyboard Pro,Electronics,78.32
+23,Keyboard Plus,Electronics,1326.95
+24,Keyboard Mini,Electronics,884.75
+25,Mouse,Electronics,58.55
+26,Mouse Pro,Electronics,560.05
+27,Mouse Plus,Electronics,1142.54
+28,Speaker,Electronics,830.42
+29,Speaker Pro,Electronics,1115.22
+30,Speaker Plus,Electronics,1209.81
+31,Blender,Home,202.97
+32,Blender Pro,Home,120.08
+33,Vacuum Cleaner,Home,26.17
+34,Vacuum Cleaner Pro,Home,144.41
+35,Vacuum Cleaner Plus,Home,276.47
+36,Coffee Maker,Home,293.81
+37,Coffee Maker Pro,Home,338.59
+38,Coffee Maker Plus,Home,369.02
+39,Toaster,Home,220.64
+40,Toaster Pro,Home,364.17
+41,Toaster Plus,Home,242.88
+42,Toaster Mini,Home,270.25
+43,Air Fryer,Home,262.46
+44,Air Fryer Pro,Home,67.24
+45,Lamp,Home,84.97
+46,Lamp Pro,Home,115.16
+47,Lamp Plus,Home,141.03
+48,Mattress,Home,140.84
+49,Mattress Pro,Home,308.07
+50,Mattress Plus,Home,160.96
+51,Pillow,Home,112.12
+52,Pillow Pro,Home,46.53
+53,Pillow Plus,Home,22.46
+54,Curtains,Home,35.05
+55,Curtains Pro,Home,381.49
+56,Curtains Plus,Home,101.33
+57,Curtains Mini,Home,41.42
+58,Rug,Home,30.5
+59,Rug Pro,Home,26.95
+60,Rug Plus,Home,110.2
+61,Rug Mini,Home,338.1
+62,T-Shirt,Clothing,31.33
+63,T-Shirt Pro,Clothing,27.67
+64,T-Shirt Plus,Clothing,103.72
+65,T-Shirt Mini,Clothing,88.96
+66,Jeans,Clothing,75.1
+67,Jeans Pro,Clothing,45.87
+68,Jacket,Clothing,33.49
+69,Jacket Pro,Clothing,95.01
+70,Jacket Plus,Clothing,114.71
+71,Sneakers,Clothing,118.89
+72,Sneakers Pro,Clothing,32.93
+73,Dress,Clothing,25.13
+74,Dress Pro,Clothing,13.59
+75,Dress Plus,Clothing,53.67
+76,Sweater,Clothing,137.12
+77,Sweater Pro,Clothing,62.54
+78,Sweater Plus,Clothing,141.81
+79,Sweater Mini,Clothing,37.77
+80,Hat,Clothing,106.69
+81,Hat Pro,Clothing,97.81
+82,Hat Plus,Clothing,24.27
+83,Hat Mini,Clothing,118.15
+84,Scarf,Clothing,94.06
+85,Scarf Pro,Clothing,26.95
+86,Scarf Plus,Clothing,147.74
+87,Scarf Mini,Clothing,119.57
+88,Socks,Clothing,84.58
+89,Socks Pro,Clothing,102.61
+90,Socks Plus,Clothing,19.65
+91,Belt,Clothing,57.77
+92,Belt Pro,Clothing,128.94
+93,Belt Plus,Clothing,125.13
+94,Belt Mini,Clothing,24.78
+95,Novel,Books,27.25
+96,Novel Pro,Books,34.0
+97,Novel Plus,Books,29.76
+98,Cookbook,Books,11.16
+99,Cookbook Pro,Books,23.26
+100,Cookbook Plus,Books,27.77
+101,Biography,Books,33.29
+102,Biography Pro,Books,23.84
+103,Biography Plus,Books,21.92
+104,Biography Mini,Books,20.25
+105,Sci-Fi Book,Books,25.74
+106,Sci-Fi Book Pro,Books,16.28
+107,Sci-Fi Book Plus,Books,13.59
+108,Sci-Fi Book Mini,Books,37.71
+109,History Book,Books,35.86
+110,History Book Pro,Books,13.54
+111,History Book Plus,Books,21.26
+112,Comic Book,Books,28.39
+113,Comic Book Pro,Books,16.77
+114,Comic Book Plus,Books,22.3
+115,Comic Book Mini,Books,16.38
+116,Poetry Book,Books,12.42
+117,Poetry Book Pro,Books,32.92
+118,Poetry Book Plus,Books,16.91
+119,Self-Help Book,Books,29.54
+120,Self-Help Book Pro,Books,14.67
+121,Self-Help Book Plus,Books,5.36
+122,Self-Help Book Mini,Books,38.18
+123,Travel Guide,Books,13.45
+124,Travel Guide Pro,Books,19.22
+125,Children's Book,Books,31.54
+126,Children's Book Pro,Books,29.17
+127,Children's Book Plus,Books,27.61
+128,Children's Book Mini,Books,22.18
+129,Yoga Mat,Sports,64.9
+130,Yoga Mat Pro,Sports,140.74
+131,Dumbbell Set,Sports,153.55
+132,Dumbbell Set Pro,Sports,401.74
+133,Dumbbell Set Plus,Sports,227.72
+134,Dumbbell Set Mini,Sports,336.55
+135,Tennis Racket,Sports,261.05
+136,Tennis Racket Pro,Sports,450.1
+137,Tennis Racket Plus,Sports,205.17
+138,Football,Sports,277.71
+139,Football Pro,Sports,190.91
+140,Football Plus,Sports,146.02
+141,Football Mini,Sports,435.56
+142,Bicycle,Sports,80.54
+143,Bicycle Pro,Sports,326.16
+144,Bicycle Plus,Sports,459.69
+145,Running Shoes,Sports,123.01
+146,Running Shoes Pro,Sports,445.78
+147,Swim Goggles,Sports,437.51
+148,Swim Goggles Pro,Sports,586.2
+149,Swim Goggles Plus,Sports,319.54
+150,Basketball,Sports,588.5
+151,Basketball Pro,Sports,501.25
+152,Basketball Plus,Sports,184.79
+153,Treadmill,Sports,115.87
+154,Treadmill Pro,Sports,18.35
+155,Treadmill Plus,Sports,325.14
+156,Boxing Gloves,Sports,36.85
+157,Boxing Gloves Pro,Sports,42.17
+158,Boxing Gloves Plus,Sports,182.36
+159,Shampoo,Beauty,65.6
+160,Shampoo Pro,Beauty,76.52
+161,Perfume,Beauty,87.91
+162,Perfume Pro,Beauty,59.54
+163,Lipstick,Beauty,50.48
+164,Lipstick Pro,Beauty,37.37
+165,Lipstick Plus,Beauty,96.72
+166,Face Cream,Beauty,94.4
+167,Face Cream Pro,Beauty,50.38
+168,Face Cream Plus,Beauty,83.1
+169,Sunscreen,Beauty,51.72
+170,Sunscreen Pro,Beauty,59.82
+171,Sunscreen Plus,Beauty,70.21
+172,Hair Dryer,Beauty,19.17
+173,Hair Dryer Pro,Beauty,58.47
+174,Nail Polish,Beauty,13.09
+175,Nail Polish Pro,Beauty,28.58
+176,Nail Polish Plus,Beauty,58.02
+177,Body Lotion,Beauty,62.6
+178,Body Lotion Pro,Beauty,80.12
+179,Body Lotion Plus,Beauty,26.44
+180,Mascara,Beauty,41.14
+181,Mascara Pro,Beauty,91.31
+182,Mascara Plus,Beauty,33.25
+183,Mascara Mini,Beauty,60.91
+184,Razor,Beauty,34.01
+185,Razor Pro,Beauty,64.0
+186,Razor Plus,Beauty,62.91
+187,Action Figure,Toys,16.41
+188,Action Figure Pro,Toys,92.71
+189,Action Figure Plus,Toys,76.93
+190,Action Figure Mini,Toys,35.43
+191,Puzzle,Toys,23.06
+192,Puzzle Pro,Toys,24.99
+193,Board Game,Toys,23.0
+194,Board Game Pro,Toys,51.98
+195,LEGO Set,Toys,73.29
+196,LEGO Set Pro,Toys,38.49
+197,LEGO Set Plus,Toys,31.62
+198,LEGO Set Mini,Toys,86.3
+199,Doll,Toys,103.85
+200,Doll Pro,Toys,13.19
+201,Doll Plus,Toys,31.84
+202,Doll Mini,Toys,35.42
+203,Remote Car,Toys,72.83
+204,Remote Car Pro,Toys,97.45
+205,Remote Car Plus,Toys,27.75
+206,Remote Car Mini,Toys,18.2
+207,Stuffed Animal,Toys,79.48
+208,Stuffed Animal Pro,Toys,109.47
+209,Drone,Toys,13.21
+210,Drone Pro,Toys,24.08
+211,Yo-Yo,Toys,73.43
+212,Yo-Yo Pro,Toys,99.79
+213,Yo-Yo Plus,Toys,110.94
+214,Building Blocks,Toys,19.3
+215,Building Blocks Pro,Toys,84.2
+216,Building Blocks Plus,Toys,85.47
